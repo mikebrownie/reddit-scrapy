@@ -8,7 +8,7 @@ Thank you to the creators of these sources. I recomend checking them out to lear
 
 - [Scraping Reddit With Scrapy](https://medium.com/analytics-vidhya/scraping-reddit-with-scrapy-ea2d30ad3234)
 
-- [Web Scraping with Scrapy and MongoDB](https://realpython.com/web-scraping-with-scrapy-and-mongodb/
+- [Web Scraping with Scrapy and MongoDB](https://realpython.com/web-scraping-with-scrapy-and-mongodb/)
 
 - [Scrapy Docs](https://docs.scrapy.org/en/latest)
 
