@@ -12,3 +12,8 @@ Thank you to the creators of these sources. I recomend checking them out to lear
 
 - [Scrapy Docs](https://docs.scrapy.org/en/latest)
 
+## TODO
+
+- Optimize request settings, currently gettings kicked after 40 reqs. Maybe lust end of page
+- Add more sources (more subreddits)
+- Fix bug that is causing some comments to throw errors
