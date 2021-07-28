@@ -16,15 +16,15 @@ COOKIES_ENABLED = False
 
 LOG_LEVEL = "INFO"
 
-ITEM_PIPELINES = ['stack.pipelines.MongoDBPipeline']
-
-MONGODB_SERVER = "localhost"
-MONGODB_PORT = 27017
-MONGODB_DB = "reddit"
-MONGODB_COLLECTION = "items"
+# ITEM_PIPELINES = ['stack.pipelines.MongoDBPipeline']
+#
+# MONGODB_SERVER = "localhost"
+# MONGODB_PORT = 27017
+# MONGODB_DB = "reddit"
+# MONGODB_COLLECTION = "items"
 
 # MONGO DB integration
-ITEM_PIPELINES = {
-   'reddit.pipelines.MongoDBPipeline': 300,
-}
+# ITEM_PIPELINES = {
+#    'reddit.pipelines.MongoDBPipeline': 300,
+# }
 
